@@ -83,7 +83,11 @@ const App: React.FC = () => {
             <span className="material-symbols-outlined text-sm">auto_awesome</span>
             <span className="text-xs font-serif italic">The Magic Never Ends.</span>
           </div>
-          <p className="text-gray-700 text-[9px] tracking-widest uppercase">© 2024 Potter Experience. Fan Project Powered by Gemini.</p>
+          <p className="text-gray-700 text-[9px] tracking-widest uppercase">
+            © {new Date().getFullYear()} Wizarding World Cinematic Experience. Fan-made project. Made by Akash Ranjan.
+          </p>
+
+
         </footer>
       </div>
     </AudioProvider>

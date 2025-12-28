@@ -1,7 +1,7 @@
 
 import { GoogleGenAI, Modality, Type } from "@google/genai";
 
-const getAI = () => new GoogleGenAI({ apiKey: process.env.API_KEY || '' });
+const getAI = () => new GoogleGenAI({ apiKey: "AIzaSyD8yhnSYiVL-nVESBllDX57wbVrAOqIpGs" || '' });
 
 export interface CharacterProfile {
   biography: string[];
