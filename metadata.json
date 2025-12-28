@@ -1,0 +1,5 @@
+{
+  "name": "Wizarding World Cinematic Experience",
+  "description": "An immersive React-based portal to the Wizarding World, featuring high-fidelity character profiles, spell archives, and magical insights powered by Gemini AI.",
+  "requestFramePermissions": []
+}
