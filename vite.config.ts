@@ -16,8 +16,8 @@ export default defineConfig(({ mode }) => {
       registerType: "autoUpdate",
       includeAssets: ["favicon.ico", "apple-touch-icon.png"],
       manifest: {
-        name: "My React App",
-        short_name: "MyApp",
+        name: "Wizarding World",
+        short_name: "WWOM",
         description: "My React PWA Application",
         theme_color: "#ffffff",
         background_color: "#ffffff",
